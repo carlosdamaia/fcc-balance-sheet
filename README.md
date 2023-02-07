@@ -1,21 +1,19 @@
-<h1>Accessibility Quiz</h1>
+#Accessibility Quiz
 
-<h2>Quiz made on FreeCodeCamp to learn about accessibility and SEO</h2>
+##Quiz made on FreeCodeCamp to learn about accessibility and SEO
 
-<p>In this course I better understood these concepts:</p>
-    <ul>
-        <li>`<meta name="description" content="page description">` it’s used for accessibility and SEO.</li>
-        <li>SVG contains the attribute of `path`, which can allow you to resize the image without affecting resolution;></li>
-        <li>`min()` property works similar to `width` and `max-width`. `min()` property works similar to width and max-width</li>
-        <li>`>` selects a direct children of an element;</li>
-        <li>`role` can be used to indicate purpose of an element on the page to assistive technologies;</li>
-        <li>`aria-labelledby` can be used to reference another element to define it’s accessible name. The `aria-label` should be used if there’s no content that can be referenced to use a accessible name;</li>
-        <li>accesskey it’s used to provide keyboard shortcuts.</li>
-    </ul>
+###In this course I better understood these concepts:
+    -`<meta name="description" content="page description">` it’s used for accessibility and SEO.
+    -SVG contains the attribute of `path`, which can allow you to resize the image without affecting resolution;>
+    -`min()` property works similar to `width` and `max-width`. `min()` property works similar to width and max-width
+    -`>` selects a direct children of an element;
+    -`role` can be used to indicate purpose of an element on the page to assistive technologies;
+    -`aria-labelledby` can be used to reference another element to define it’s accessible name. The `aria-label` should be used if there’s no content that can be referenced to use a accessible name;
+    -accesskey it’s used to provide keyboard shortcuts.
 
-<h2>Preview</h2>
+###Preview
     <img src="preview.png">
 
-<h2>Conclusion</h2>
-    <p>In this course I realized how important is semantic HTML, using suitable tags in your code can contribute a lot for accessibility on your web page, attributes like `aria-labelledby` and `role` are some of them.</p>
-    <p>My current goal is to master React, but first I need to complete some begginer courses on FreeCodeCamp</p>
+###Conclusion
+    In this course I realized how important is semantic HTML, using suitable tags in your code can contribute a lot for accessibility on your web page, attributes like `aria-labelledby` and `role` are some of them.
+    My current goal is to master React, but first I need to complete some begginer courses on FreeCodeCamp.
