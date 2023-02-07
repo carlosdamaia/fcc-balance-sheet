@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Accessibility Quiz
 
 ## Quiz made on FreeCodeCamp to learn about accessibility and SEO
@@ -17,3 +18,6 @@
 ### Conclusion
     In this course I realized how important is semantic HTML, using suitable tags in your code can contribute a lot for accessibility on your web page, attributes like `aria-labelledby` and `role` are some of them.
     My current goal is to master React, but first I need to complete some begginer courses on FreeCodeCamp.
+=======
+# accessibility-quiz
+>>>>>>> parent of 4b444b1 (Final Project)
