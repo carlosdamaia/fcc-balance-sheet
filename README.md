@@ -1,26 +1,28 @@
-<<<<<<< HEAD
-<h1>Accessibility Quiz</h1>
+# FreeCodeCamp Balance Sheet
 
-<h2>Quiz made on FreeCodeCamp to learn about accessibility and SEO</h2>
+## Balance sheet made on FreeCodeCamp to learn more about Pseudo-Elements
 
-<p>In this course I better understood these concepts:</p>
-    <ul>
-        <li>`<meta name="description" content="page description">` it’s used for accessibility and SEO.</li>
-        <li>SVG contains the attribute of `path`, which can allow you to resize the image without affecting resolution;></li>
-        <li>`min()` property works similar to `width` and `max-width`. `min()` property works similar to width and max-width</li>
-        <li>`>` selects a direct children of an element;</li>
-        <li>`role` can be used to indicate purpose of an element on the page to assistive technologies;</li>
-        <li>`aria-labelledby` can be used to reference another element to define it’s accessible name. The `aria-label` should be used if there’s no content that can be referenced to use a accessible name;</li>
-        <li>accesskey it’s used to provide keyboard shortcuts.</li>
-    </ul>
+In this course I better understood these concepts:
 
-<h2>Preview</h2>
-    <img src="preview.png">
+- Tags to create a table:
+    - `table`: creates a table;
+    - `thead`: indicates the table’s header;
+    - `tbody`: indicates the table’s body;
+    - `tr`: table row;
+    - `td`: data cell. This element only exists to ensure you table has x-columns and it will be associated to the correct columns;
+    - `th`: header cell;
+- `white-space` property it’s used to determine how the white space inside an element is handled;
+- `:first-of-type` pseudo-element is used to select the first element that matches the selector, and `:last-of-type` which does the exact opposite;
+- `calc( )` can be used to calculate a value based on other value;
+- `element[class=”classname”]` will target any **element** that has a class attributed to it. The difference between `element[class=”classname”]` and `element.classname` is that one is going to select *elements* where the *only* class is *classname* and the other one will select *elements* where it *includes* *classname*;
+- `!important` ensures you that the property will not be overwritten;
 
-<h2>Conclusion</h2>
-    <p>In this course I realized how important is semantic HTML, using suitable tags in your code can contribute a lot for accessibility on your web page, attributes like `aria-labelledby` and `role` are some of them.</p>
-    <p>My current goal is to master React, but first I need to complete some begginer courses on FreeCodeCamp</p>
-=======
-# fcc-balance-sheet
-Balance sheet made on FreeCodeCamp to learn more about Pseudo-Elements
->>>>>>> 4cf8988b8f7e215cdca33d29884bf17d563fc8b1
+# Preview
+
+![Preview Image](preview.png)
+
+# Conclusion
+
+The concepts I learned in this course are important because tables are a fundamental part of presenting information, and using these **elements** I learned is essential for creating a easy-to-read page. And **pseudo-elements** of course, because it can make your life so much easier when writing CSS.
+
+My current goal is to master React, but first I need to complete some begginer courses on FreeCodeCamp.
