@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>Accessibility Quiz</h1>
 
 <h2>Quiz made on FreeCodeCamp to learn about accessibility and SEO</h2>
@@ -19,3 +20,7 @@
 <h2>Conclusion</h2>
     <p>In this course I realized how important is semantic HTML, using suitable tags in your code can contribute a lot for accessibility on your web page, attributes like `aria-labelledby` and `role` are some of them.</p>
     <p>My current goal is to master React, but first I need to complete some begginer courses on FreeCodeCamp</p>
+=======
+# fcc-balance-sheet
+Balance sheet made on FreeCodeCamp to learn more about Pseudo-Elements
+>>>>>>> 4cf8988b8f7e215cdca33d29884bf17d563fc8b1
